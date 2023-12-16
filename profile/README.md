@@ -6,7 +6,9 @@
     <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/indoculturalfinder/infoculturalfinder-be/main/storage/img/Animation%20-%2017027359851235.gif" width="150" alt="Laravel Logo"></a>
 </p>
 
-## Hi Selamat Datang di Capstone Project Kami 👋
+
+<h1 align="center">Hi Selamat Datang di Capstone Project Kami 👋</h1>
+
 
 <!--
 
