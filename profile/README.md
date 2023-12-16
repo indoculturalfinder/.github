@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+    <a href="https://laravel.com" target="_blank"><img src="https://github.com/indoculturalfinder/indoculturalfinder-fe/assets/112412781/463c935b-d0e9-4bae-8b9b-e2829440441a" width="150" alt="Laravel Logo"></a>
+</p>
+<p align="center">
+    <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/indoculturalfinder/infoculturalfinder-be/main/storage/img/Animation%20-%201702738212790.gif" width="150" alt="Laravel Logo"></a>
+    <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/indoculturalfinder/infoculturalfinder-be/main/storage/img/Animation%20-%2017027359851235.gif" width="150" alt="Laravel Logo"></a>
+</p>
+
+## Hi Selamat Datang di Capstone Project Kami 👋
 
 <!--
 
